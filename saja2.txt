@@ -1,0 +1,12 @@
+You: What software and tools are available in the computer labs?
+
+Bot: Computer labs are equipped with a variety of software and tools, including development environments for different programming languages, database management systems, and design tools. You can check with the lab administrators for a complete list of available resources.
+
+You: Ai?
+
+Bot: Hello!
+
+You: What is Ai?
+
+Bot:  Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+

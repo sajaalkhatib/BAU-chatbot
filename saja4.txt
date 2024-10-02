@@ -1,0 +1,48 @@
+You: What is the minimum number of hours in class?
+
+Bot: The maximum number of credit hours a student can register for per semester is as follows, as decided by the Higher Education Council on March 17th, 2022: 
+* First and Second Semesters: 18 credit hours. Students expected to graduate at the end of the semester can register for up to 21 credit hours. 
+* Summer Semester: 10 credit hours. Students expected to graduate at the end of the summer semester can register for up to 12 credit hours.
+
+You: What is the minimum number of hours in class?
+
+Bot: The maximum number of credit hours a student can register for per semester is as follows, as decided by the Higher Education Council on March 17th, 2022: 
+* First and Second Semesters: 18 credit hours. Students expected to graduate at the end of the semester can register for up to 21 credit hours. 
+* Summer Semester: 10 credit hours. Students expected to graduate at the end of the summer semester can register for up to 12 credit hours.
+
+You: Explain the subject of designing and organizing embedded systems?
+
+Bot: **Incorrect explanation provided.** Arduino is an open source electronic system used to program microcontrollers and create electronic projects. The main components include an integrated circuit card and various connection media. It uses an easy-to-understand programming language similar to C/C++ to program the Arduino. It can be used in a variety of electronic and robotic applications.
+
+You: What software and tools are available in the computer labs?
+
+Bot: Computer labs are equipped with a variety of software and tools, including development environments for different programming languages, database management systems, and design tools. You can check with the lab administrators for a complete list of available resources.
+
+You: How can I learn a new programming language?
+
+Bot: Materials that are particularly useful to you are available online on your college's e-learning website, where you can access the e-learning website using your credentials, and update useful content and other lecture notes.
+
+You: How  learn  programming language?
+
+Bot: I apologize, I do not have an answer to your question. See the department head, Dr. Atef Obeidat.
+
+You: I learn a new programming language?
+
+Bot: Python and Java are popular choices for beginners due to their readability and vast learning resources. Consider your interests; Python is great for data science, while Java is widely used in enterprise applications.
+
+You: What career paths are common for computer science graduates?
+
+Bot: Computer science graduates pursue various career paths, including software development, data science, cybersecurity, artificial intelligence, and more.
+
+You: How do I access online educational learning resources?
+
+Bot: Materials that are particularly useful to you are available online on your college's e-learning website, where you can access the e-learning website using your credentials, and update useful content and other lecture notes.
+
+You: What software and tools are available in the computer labs?
+
+Bot: Computer labs are equipped with a variety of software and tools, including development environments for different programming languages, database management systems, and design tools. You can check with the lab administrators for a complete list of available resources.
+
+You: What software and tools are available in the computer labs?
+
+Bot: Computer labs are equipped with a variety of software and tools, including development environments for different programming languages, database management systems, and design tools. You can check with the lab administrators for a complete list of available resources.
+

@@ -1,0 +1,12 @@
+You: What are the procedures for postponing the semester?
+
+Bot: The procedures for postponing the semester are as follows: 1. Enter the student portal and click on the registration services icon. 2. Click on the option to postpone the current semester. 3. Get the postponement request approved by the dean of the student's college and the college registrar. 4. Inform the head of the student's department about the postponement. 5. Wait for approval, which will appear on the student portal in the announcements box. Notice: The postponement period does not affect the maximum period allowed to obtain a bachelor's degree, which is 7 years for engineering specializations (14 semesters) and 6 years for other specializations (12 semesters).
+
+You: 
+
+Bot: I am glad I helped you
+
+You: What AI?
+
+Bot:  Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+
